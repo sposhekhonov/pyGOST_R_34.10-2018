@@ -6,13 +6,13 @@ Implementation of the digital signature protocol GOST R 34.10–2018 (ГОСТ �
 
 1. Install requirements:
 
-```
+```python
 pip install -r requirements.txt
 ```
 
 	2. Run .py file using python:
 
-```
+```python
 py gost34_10_2018.py
 ```
 
